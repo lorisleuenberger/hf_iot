@@ -1,7 +1,7 @@
-# 03B - Sensoren und Aktoren
-Sie haben sich mit der Geschichte von IoT auseinander Gesetzt und im Portfolio festgehalten. 
+# 02B - Geschichte von IoT
+Anforderung: Sie haben sich mit der Geschichte von IoT auseinander Gesetzt und im Portfolio festgehalten. 
 
-**Ki-Deklaration** Die wichtigsten Punkte aus dem Text wurden mit KI zu einem Text zusammengefasst. Pers. Zukunft enthält keine KI.
+**Ki-Deklaration** Die wichtigsten Punkte aus dem Text wurden mit KI zu einem Text zusammengefasst. Zukunft enthält keine KI.
 
 ## Zusammenfassung der Geschichte von IoT
 Das Internet of Things (IoT) hat kein genaues Geburtsjahr, sondern entstand schrittweise durch mehrere technologische Entwicklungen: Mechanisierung, Elektrifizierung, Automatisierung und Vernetzung.
